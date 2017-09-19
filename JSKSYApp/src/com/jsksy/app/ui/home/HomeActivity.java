@@ -140,7 +140,7 @@ public class HomeActivity extends BaseActivity implements OnHeaderRefreshListene
                     downApkUtil.installApk();
                     break;
                 case Constants.NO_SD:
-                    ToastUtil.makeText(HomeActivity.this, "?????SD??");
+                    ToastUtil.makeText(HomeActivity.this, "未找到SD卡！");
                     break;
                 default:
                     break;
