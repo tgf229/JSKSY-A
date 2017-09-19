@@ -525,6 +525,7 @@ public class HomeActivity extends BaseActivity implements OnHeaderRefreshListene
             else
             {
                 ToastUtil.makeText(this, "????????????????????????");
+                ToastUtil.showError(this);
                 //                if ("2".equals(waitType))
                 //                {
                 //                    Intent intentPoint = new Intent(this, WishSearchActivity.class);
