@@ -1,9 +1,9 @@
 package com.jsksy.app.util;
 
-import com.jsksy.app.JSKSYApplication;
-
 import android.content.Context;
 import android.widget.Toast;
+
+import com.jsksy.app.JSKSYApplication;
 
 /**
  * <提示公共类> <功能详细描述>
@@ -33,7 +33,7 @@ public final class ToastUtil
      * 
      * <显示失败信息 > <功能详细描述>
      * 
-     * @param ctx
+     * @param context
      * @see [类、类#方法、类#成员]
      */
     public static void showError(Context context)

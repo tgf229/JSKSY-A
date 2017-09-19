@@ -1,2 +1,0 @@
-CHANGED,/Users/tugaofeng/tgf/work/JSKS/as/JSKSYApp/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
-CHANGED,/Users/tugaofeng/tgf/work/JSKS/as/JSKSYApp/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/jsksy/app/ui/gk/GKHomeActivity$override.class

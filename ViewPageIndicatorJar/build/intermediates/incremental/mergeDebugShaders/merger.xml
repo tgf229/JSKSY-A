@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/Users/tugaofeng/tgf/work/JSKS/as/ViewPageIndicatorJar/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/Users/tugaofeng/tgf/work/JSKS/as/ViewPageIndicatorJar/build-types/debug/shaders"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="D:\wrokspace3\JSKSY-A\ViewPageIndicatorJar\src\main\shaders"/></dataSet><dataSet config="debug"><source path="D:\wrokspace3\JSKSY-A\ViewPageIndicatorJar\build-types\debug\shaders"/></dataSet></merger>

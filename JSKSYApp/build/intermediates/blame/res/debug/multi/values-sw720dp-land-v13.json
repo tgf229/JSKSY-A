@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/tugaofeng/tgf/work/JSKS/as/JSKSYApp/build/intermediates/res/merged/debug/values-sw720dp-land-v13/values-sw720dp-land-v13.xml",
+        "outputFile": "D:\\wrokspace3\\JSKSY-A\\JSKSYApp\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 109
                 },
                 "from": {
-                    "file": "/Users/tugaofeng/tgf/work/JSKS/as/JSKSYApp/res/values-sw720dp-land/dimens.xml",
+                    "file": "D:\\wrokspace3\\JSKSY-A\\JSKSYApp\\res\\values-sw720dp-land\\dimens.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
