@@ -524,7 +524,7 @@ public class HomeActivity extends BaseActivity implements OnHeaderRefreshListene
             }
             else
             {
-                ToastUtil.makeText(this, "      ");
+                ToastUtil.makeText(this, Constants.ERROR_MESSAGE);
                 ToastUtil.showError(this);
                 //                if ("2".equals(waitType))
                 //                {
