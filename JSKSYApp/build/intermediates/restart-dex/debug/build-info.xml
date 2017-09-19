@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86,armeabi-v7a,armeabi"
+    api-level="21"
+    density="xhdpi"
+    format="7"
+    timestamp="15340538445102"
+    token="-807840451881351236" >
+
+    <task
+        name="javac"
+        duration="1533" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="71" />
+    <task
+        name="verifier"
+        duration="5" />
+
+    <artifact
+        location="/Users/tugaofeng/tgf/work/JSKS/as/JSKSYApp/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+        type="DEX" />
+
+    <build timestamp="15301035761814" >
+        <artifact
+            location="/Users/tugaofeng/tgf/work/JSKS/as/JSKSYApp/build/outputs/apk/JSKSYApp-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="15340538445102" >
+        <artifact
+            location="/Users/tugaofeng/tgf/work/JSKS/as/JSKSYApp/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+            type="DEX" />
+    </build>
+    <build timestamp="20088850555183" >
+        <artifact
+            location="/Users/tugaofeng/tgf/work/JSKS/as/JSKSYApp/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>
